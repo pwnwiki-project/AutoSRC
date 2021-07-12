@@ -9,7 +9,7 @@ python3 autosrc.py -e <FOFA EMAIL> -k <TOKEN>
 
 ## Screenshots
 
-![](https://github.com/pwnwikiorg/AutoSRC/blob/main/images/WechatIMG446.png)
+![](https://github.com/pwnwikiorg/AutoSRC/blob/main/images/Xnip2021-07-12_13-17-07.jpg)
 
 
 
